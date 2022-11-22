@@ -1,2 +1,3 @@
 # Tic-Tac-Toe-Game
-A simple Tic-Tac-Toe game using Python
+A pretty simple Tic-Tac-Toe game using Python and functions only
+
